@@ -1,0 +1,883 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "1unchainedmofo"]
+[Result "1-0"]
+[WhiteElo "210"]
+[BlackElo "200"]
+[TimeControl "180"]
+[EndTime "10:25:58 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. d4 Nc6 2. c4 e6 3. e3 Qh4 4. Nc3 Nb4 5. Nf3 Qd8 6. Bd2 c6 7. d5 Qb6 8. a3 e5
+9. axb4 Nf6 10. Nxe5 cxd5 11. Bd3 d4 12. exd4 Qxd4 13. Nf3 Qxd3 14. Ne5 Qd4 15.
+Qe2 d6 16. Nf3+ Kd8 17. Nxd4 Bg4 18. f3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "jpamorimdev"]
+[Result "0-1"]
+[WhiteElo "202"]
+[BlackElo "231"]
+[TimeControl "180"]
+[EndTime "10:42:29 GMT+0000"]
+[Termination "jpamorimdev won by checkmate"]
+
+1. d4 d5 2. c4 Nf6 3. e3 dxc4 4. Bxc4 Be6 5. d5 Bxd5 6. Qb3 Bxc4 7. Qxc4 e5 8.
+Qb5+ Nbd7 9. Qxb7 Bc5 10. Nc3 O-O 11. Nb5 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 Ne4+ 14.
+Qxe4 Rb8 15. Nxa7 Rxb2+ 16. Kc1 Qb8 17. Nc6 Qb6 18. Rb1 Rxb1+ 19. Qxb1 Qxc6+ 20.
+Kd2 Rb8 21. Qf5 g6 22. Qh3 Rb2+ 23. Kd3 Nc5+ 24. Kc3 Qb5 25. Qc8+ Kg7 26. Qxc7
+Ne4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "SilentDon"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "202"]
+[BlackElo "194"]
+[TimeControl "180"]
+[EndTime "10:44:44 GMT+0000"]
+[Termination "SilentDon won by checkmate"]
+
+1. d4 d5 2. e3 c5 3. dxc5 e6 4. Bb5+ Bd7 5. Bd3 Bxc5 6. c4 Nc6 7. cxd5 exd5 8.
+e4 d4 9. Qc2 Nb4 10. Qxc5 a5 11. Qxd4 Nc2+ 12. Bxc2 Nf6 13. e5 Ng4 14. Qd3 O-O
+15. Qxh7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "Diyorbek_oo1"]
+[Result "1-0"]
+[WhiteElo "202"]
+[BlackElo "170"]
+[TimeControl "180"]
+[EndTime "10:46:35 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. e4 e6 2. d4 d5 3. c4 Nc6 4. Nc3 Nf6 5. e5 dxc4 6. Bxc4 Bb4 7. Bd2 Ng4 8. Qxg4
+h5 9. Qd1 Qxd4 10. Nf3 Nxe5 11. Nxd4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "AlexofGaming"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "209"]
+[BlackElo "194"]
+[TimeControl "180"]
+[EndTime "10:52:19 GMT+0000"]
+[Termination "AlexofGaming won on time"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 d5 5. exd5 exd5 6. dxc5 Bxc5 7. Nxd5 Nf6 8.
+Be2 Nxd5 9. Ne5 Qf6 10. Qxd5 Bb6 11. Bc4 O-O 12. Nxf7 Nb4 13. Bb3 Qxf2+ 14. Kd1
+Rxf7 15. Qxf7+ Qxf7 16. Bxf7+ Kxf7 17. c3 Nd3 18. Kc2 Bf5 19. Rf1 Nf4+ 20. Kd2
+Nxg2 21. Rxf5+ Kg6 22. Rf2 Ne3 23. Ke2 Nc2 24. Rg2+ Kf6 25. Rb1 Re8+ 26. Kd3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "apakekm"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "184"]
+[BlackElo "202"]
+[TimeControl "180"]
+[EndTime "10:58:44 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. e4 c5 2. Qg4 Nc6 3. Nf3 e6 4. b3 Nb4 5. Nc3 Nxc2+ 6. Kd1 Nxa1 7. Ba3 g6 8.
+Ne5 Bg7 9. Nd3 f5 10. Qe2 e5 11. Nxc5 f4 12. Nd3 Qa5 13. Bb2 Nf6 14. Bxa1 d6 15.
+g4 Bxg4 16. f3 Bh5 17. Bh3 g5 18. Rg1 Rg8 19. Rxg5 h6 20. Rg1 Rc8 21. Ke1 b5 22.
+Kf2 b4 23. Nd1 Qb6+ 24. Ke1 Qxg1+ 25. Qf1 Qxh2 26. Bxc8 Kd8 27. Bb7 Qh4+ 28. Ke2
+Kc7 29. Ba6 Kb6 30. Bc4 Kc7 31. Bxg8 Kc6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "apakekm"]
+[Result "1-0"]
+[WhiteElo "210"]
+[BlackElo "176"]
+[TimeControl "180"]
+[EndTime "11:04:50 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. d4 Nc6 2. c4 b6 3. e3 Ba6 4. Nc3 Nf6 5. Nf3 e6 6. e4 Bb4 7. Bd2 h5 8. h4 g6
+9. g3 Nxd4 10. Nxd4 Nxe4 11. Nxe4 Bxd2+ 12. Qxd2 Bxc4 13. Bxc4 a5 14. a4 d5 15.
+Nc6 Qd6 16. Nf6+ Kf8 17. Bb5 Qe5+ 18. Kf1 Qxf6 19. Rc1 Qe5 20. Nxe5 Rc8 21. Bd7
+Rd8 22. Rxc7 Kg7 23. Bb5 Rc8 24. Rb7 Rb8 25. Re7 Rbe8 26. Rc7 Rc8 27. Rc6 f6 28.
+Rxc8 Rxc8 29. Bd7 Rh8 30. Nc6 Rd8 31. Bxe6 Rd6 32. Bxd5 Rxd5 33. Qxd5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "obad999"]
+[Result "1-0"]
+[WhiteElo "218"]
+[BlackElo "183"]
+[TimeControl "180"]
+[EndTime "11:09:21 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. d4 d5 2. c4 e5 3. Nc3 dxc4 4. e3 a6 5. Bxc4 b5 6. Bb3 exd4 7. exd4 Nf6 8. Nf3
+a5 9. O-O b4 10. Nb5 Ba6 11. Ng5 Bxb5 12. Re1+ Be7 13. Nxf7 Nbd7 14. Nxd8 Kxd8
+15. Qf3 a4 16. Qxa8+ Nb8 17. Qxb8+ Kd7 18. Qxh8 axb3 19. axb3 Ng4 20. Rxe7+ Kxe7
+21. Qxg7+ Kd6 22. Qxg4 c5 23. Bf4+ Kd5 24. Qf5+ Kxd4 25. Qe5+ Kd3 26. Qxc5 Ke4
+27. Qxb4+ Bc4 28. Qxc4+ Kf5 29. Rd1 h5 30. Rd5+ Kf6 31. Qc6+ Kg7 32. Rd7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "combatwombat7774"]
+[Result "0-1"]
+[WhiteElo "210"]
+[BlackElo "221"]
+[TimeControl "180"]
+[EndTime "11:13:34 GMT+0000"]
+[Termination "combatwombat7774 won - game abandoned"]
+
+1. d4 b5 2. c4 c6 3. e3 b4 4. b3 a5 5. a3 g6 6. axb4 Bg7 7. bxa5 d5 8. b4 Nd7 9.
+Nf3 e6 10. Nc3 Ne7 11. c5 O-O 12. Bd3 h5 13. h3 f5 14. g4 Qc7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "e1ql"]
+[Black "jymapps"]
+[Result "1/2-1/2"]
+[WhiteElo "189"]
+[BlackElo "210"]
+[TimeControl "180"]
+[EndTime "11:15:44 GMT+0000"]
+[Termination "Game drawn by agreement"]
+
+1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "GAMBERONE68"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "180"]
+[BlackElo "217"]
+[TimeControl "180"]
+[EndTime "11:22:12 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. e3 c5 2. d4 e6 3. a3 d5 4. b4 b6 5. dxc5 bxc5 6. bxc5 Bxc5 7. Nc3 Qa5 8. Qd2
+Nc6 9. a4 Nf6 10. f4 Ne4 11. Nxe4 dxe4 12. Qxa5 Nxa5 13. Bd2 Nc4 14. Bc3 Bxe3
+15. Nf3 O-O 16. Ne5 Bxf4 17. Nxc4 Bb7 18. a5 Rac8 19. Na3 Rxc3 20. Nb1 Rxc2 21.
+Kd1 Rfc8 22. Bd3 Rc1+ 23. Ke2 Rxh1 24. Bxe4 Rxh2 25. Bxb7 Rc7 26. Bf3 Be5 27.
+Ra4 Rc1 28. Nd2 Bc3 29. Ne4 Rc2+ 30. Ke3 Bd2+ 31. Nxd2 f5 32. Rd4 g5 33. g4 fxg4
+34. Bxg4 Rg2 35. Bf3 Rg3 36. Rd3 Rc1 37. Ne4 Rgg1 38. Kd4 Rgd1 39. Rxd1 Rxd1+
+40. Bxd1 e5+ 41. Kxe5 g4 42. Bxg4 h5 43. Bxh5 Kg7 44. Bf3 Kg6 45. Bg4 Kg7 46.
+Bf5 Kf8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "lenacska22"]
+[Result "1-0"]
+[WhiteElo "225"]
+[BlackElo "213"]
+[TimeControl "180"]
+[EndTime "11:26:29 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Qd7 4. Bxc4 Nc6 5. Nc3 Nb4 6. e4 e5 7. dxe5 Qe7 8. Nf3
+c5 9. Ng5 f6 10. Nf7 Qxf7 11. Bxf7+ Kxf7 12. Qb3+ Be6 13. Nd5 Nxd5 14. Qxb7+ Ke8
+15. Qxa8+ Kf7 16. exd5 Bxd5 17. Qxd5+ Ke8 18. O-O g5 19. Re1 h5 20. exf6+ Be7
+21. f7+ Kf8 22. fxg8=Q+ Rxg8 23. Re6 a5 24. Qf5+ Kg7 25. Rxe7+ Kh6 26. Re6+ Rg6
+27. Qxg6# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "Xian2274"]
+[Result "0-1"]
+[WhiteElo "217"]
+[BlackElo "223"]
+[TimeControl "180"]
+[EndTime "11:27:08 GMT+0000"]
+[Termination "Xian2274 won by resignation"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Be6 4. Nc3 Nc6 5. Qb3 cxb3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "Xian2274"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "231"]
+[BlackElo "209"]
+[TimeControl "180"]
+[EndTime "11:33:29 GMT+0000"]
+[Termination "Xian2274 won on time"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Nc6 4. d4 d5 5. Ng5 dxc4 6. dxc5 Bxc5 7. O-O Qxg5 8.
+Bxg5 f6 9. Bd2 f5 10. Bg5 e5 11. exf5 Bxf5 12. Re1 h6 13. Bxh6 Rxh6 14. Nc3 Nb4
+15. Nb5 Nxc2 16. Qxc2 Bxc2 17. Nc7+ Kd7 18. Nxa8 Kc6 19. Rxe5 Nf6 20. Re6+ Kd7
+21. Rae1 Bb4 22. R1e5 Bd6 23. Re3 Bf5 24. Nc7 Bxe6 25. Nxe6 Ng4 26. Re4 Nxh2 27.
+Nxg7 Rg6 28. Nf5 Ng4 29. Nh4 Bh2+ 30. Kf1 Rd6 31. Ke2 Nf6 32. Nf3 Bf4 33. Nh4
+Bg5 34. Nf3 Nxe4 35. Nxg5 Nxf2 36. Nf7 Rf6 37. Nh6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "thansis1"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "206"]
+[BlackElo "217"]
+[TimeControl "180"]
+[EndTime "11:33:54 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. e4 c5 2. Qh5 e6 3. Qxc5 Bxc5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "Mirfayz_Kamolovich"]
+[Result "0-1"]
+[WhiteElo "209"]
+[BlackElo "219"]
+[TimeControl "180"]
+[EndTime "11:39:48 GMT+0000"]
+[Termination "Mirfayz_Kamolovich won on time"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Nc3 a6 5. Bxc4 b5 6. Bb3 Be6 7. e4 Bxb3 8. Qxb3
+Nbd7 9. e5 Ng4 10. Ne4 f5 11. Ng5 h6 12. Nf7 Qb8 13. Nxh8 Nb6 14. Qf3 Nf6 15.
+Qxf5 e6 16. Qxe6+ Be7 17. Ng6 Qd8 18. exf6 gxf6 19. Qg8+ Kd7 20. Qh7 Ra7 21.
+Qxh6 Nc4 22. Qh3+ Kc6 23. Bf4 Bd6 24. Bxd6 cxd6 25. Nf4 Ne3 26. Nf3 Nc2+ 27. Kd1
+Nxa1 28. Kd2 Nb3+ 29. Kd3 Nxd4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "r4GN4R24"]
+[Result "1-0"]
+[WhiteElo "216"]
+[BlackElo "171"]
+[TimeControl "180"]
+[EndTime "11:42:36 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. d4 e6 2. g3 Qe7 3. Bg2 Qb4+ 4. Nc3 Qa5 5. e4 Bb4 6. Bd2 Bxc3 7. bxc3 Qa6 8.
+c4 Qxc4 9. Nf3 Qb5 10. d5 Qb2 11. a4 Nf6 12. O-O exd5 13. exd5 Nxd5 14. Ng5 Kf8
+15. Bxd5 Qe5 16. Nxf7 Rg8 17. Nxe5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "rshorche"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "230"]
+[BlackElo "225"]
+[TimeControl "180"]
+[EndTime "11:49:01 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. d4 d5 2. e4 c5 3. dxc5 e6 4. exd5 exd5 5. Qe2+ Ne7 6. Bg5 Nc6 7. Qf3 Qa5+ 8.
+Nc3 Qxc5 9. b4 Qd6 10. Bb5 g6 11. a4 Bg7 12. a5 Bxc3+ 13. Qxc3 Qe6+ 14. Kd2 d4
+15. Qd3 Bd7 16. c3 Ne5 17. Qe4 Bxb5 18. cxd4 Nc4+ 19. Kc2 Qxe4+ 20. Kc3 Nd5+ 21.
+Kb3 Qxg2 22. a6 Qxh1 23. axb7 Rb8 24. Rxa7 Nd2+ 25. Kc2 Nc4 26. Kb3 Nd6 27. Ka3
+Nxb7 28. Kb3 Nd6 29. Kc2 Be2 30. Kd2 Bf1 31. Ke1 Qxg1 32. Kd2 Bh3 33. Kc2 Qxf2+
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "Ponsheeek"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "202"]
+[BlackElo "233"]
+[TimeControl "180"]
+[EndTime "11:52:10 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. c4 e6 2. d4 d5 3. cxd5 exd5 4. Nc3 Nc6 5. g3 Nf6 6. Bg2 b6 7. Bg5 Bb7 8. Bxf6
+Qxf6 9. Bxd5 Qg6 10. Qd3 Nb4 11. Qe3+ Be7 12. O-O-O Nc2 13. Kd2 Nxe3 14. fxe3
+Qd6 15. Rf1 Bxd5 16. Nxd5 Qxd5 17. Kd3 Qxh1 18. Kc4 Qxh2 19. Rf5 Qxg1 20. Kd5
+Qxe3 21. Rf3 Qxe2 22. Rb3 Qe6# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "SwitchMeister69"]
+[Result "0-1"]
+[WhiteElo "225"]
+[BlackElo "249"]
+[TimeControl "180"]
+[EndTime "11:58:47 GMT+0000"]
+[Termination "SwitchMeister69 won on time"]
+
+1. d4 d5 2. c4 Nf6 3. e3 e5 4. Nc3 e4 5. Qa4+ c6 6. f3 a6 7. fxe4 b5 8. cxb5
+cxb5 9. Nxb5 Bd6 10. e5 Be7 11. exf6 Bxf6 12. Nf3 O-O 13. Bd2 Nc6 14. Nc3 Qe7
+15. Qxc6 Qb7 16. Qa4 Bd7 17. Qa3 Rfe8 18. b3 Re7 19. g4 Rae8 20. O-O-O Rxe3 21.
+Bxe3 Rxe3 22. Be2 Rxe2 23. Nxe2 Bxg4 24. Nc3 Qe7 25. Rhe1 Qc7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "yyusuf434"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "232"]
+[BlackElo "217"]
+[TimeControl "180"]
+[EndTime "12:03:48 GMT+0000"]
+[Termination "yyusuf434 won by resignation"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. f4 Nc6 5. d3 d6 6. Nc4 d5 7. Ne3 dxe4 8. dxe4
+Qxe4 9. Bd3 Qd5 10. Nxd5 Nxd5 11. c4 Nf6 12. c5 Bxc5 13. Nc3 Ng4 14. h3 Nf2 15.
+O-O Nxd1+ 16. Kh2 Ne3 17. Nd5 Bb6 18. Re1 O-O 19. Bxe3 Bxe3 20. Rxe3 Nd4 21. g4
+c5 22. Nc7 Rb8 23. Re7 c4 24. Bxc4 Nc2 25. Rc1 Nb4 26. Ne8 Nc6 27. Rxf7 Rxf7 28.
+Nd6 Nb4 29. Nxf7 Bd7 30. Ne5+ Kf8 31. Nxd7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "hatdogf1"]
+[Result "1-0"]
+[WhiteElo "225"]
+[BlackElo "195"]
+[TimeControl "180"]
+[EndTime "12:06:07 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e3 Nf6 5. Bxc4 Bb4 6. Bd2 Bxc3 7. Bxc3 Ne4 8.
+Qa4+ c6 9. Bd3 b5 10. Qc2 Nxc3 11. Qxc3 O-O 12. Bc2 Na6 13. Qd3 h6 14. Qh7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "SAHILRAUT9850"]
+[Result "1-0"]
+[WhiteElo "232"]
+[BlackElo "188"]
+[TimeControl "180"]
+[EndTime "12:12:26 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. d4 d5 2. c4 e6 3. e3 Nc6 4. Nc3 Qf6 5. Nf3 Bd6 6. Be2 Nge7 7. O-O e5 8. e4
+exd4 9. Nb5 dxe4 10. Nfxd4 Nxd4 11. Nxd4 Nf5 12. Nb5 Be6 13. c5 Bxc5 14. Nxc7+
+Ke7 15. Nxa8 Qh6 16. Nc7 Nh4 17. Bxh6 gxh6 18. Rc1 Rg8 19. Rxc5 Rxg2+ 20. Kh1
+Bh3 21. Rg1 Rxf2 22. Rg7 Nf3 23. Nd5+ Ke6 24. Nf4+ Kf6 25. Qd8+ Kxg7 26. Rc7
+Bg2+ 27. Nxg2 Rxe2 28. Qe8 Rf2 29. Rxf7+ Kg6 30. Qg8+ Kh5 31. Nf4+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "ajay4697"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "223"]
+[BlackElo "240"]
+[TimeControl "180"]
+[EndTime "12:15:06 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. e4 c5 2. Qf3 e6 3. Bc4 d5 4. exd5 exd5 5. Bxd5 Nf6 6. Bc4 Qe7+ 7. Ne2 Nc6 8.
+d3 a6 9. O-O Ne5 10. Qe3 b5 11. Bb3 Qc7 12. a4 Be7 13. c4 Neg4 14. Qg5 Qxh2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "Probos05"]
+[Result "1-0"]
+[WhiteElo "247"]
+[BlackElo "203"]
+[TimeControl "180"]
+[EndTime "12:18:16 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. d4 e5 2. c4 e4 3. e3 d5 4. Nc3 c5 5. Nxd5 cxd4 6. exd4 e3 7. Bxe3 Qh4 8. Nf3
+Qe4 9. Nc7+ Kd8 10. Nxa8 Bb4+ 11. Ke2 Bg4 12. a3 Qf4 13. Bxf4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "zristoph"]
+[Result "1-0"]
+[WhiteElo "255"]
+[BlackElo "238"]
+[TimeControl "180"]
+[EndTime "12:23:56 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Nc3 Na6 5. Bxc4 Nd5 6. Nf3 Ndb4 7. Ng5 e6 8. d5
+exd5 9. Bb3 d4 10. exd4 Bf5 11. Nxf7 Bc2 12. Bxc2 Kxf7 13. Bb3+ Nd5 14. Qf3+ Ke7
+15. Bxd5 Qxd5 16. Nxd5+ Kd6 17. Nc3 Re8+ 18. Kf1 Ke6 19. Qe3+ Kf7 20. Qf3+ Ke7
+21. Qxb7 Nb8 22. Nd5+ Kd6 23. Qxc7+ Ke6 24. Nf4+ Kf6 25. Nd5+ Ke6 26. Nf4+ Kf6
+27. Qc3 Nc6 28. Qxc6+ Kg5 29. Qxe8 Kf5 30. g3 Kg4 31. h3+ Kf3 32. Qe2# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "Cleodavo"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "205"]
+[BlackElo "262"]
+[TimeControl "180"]
+[EndTime "12:26:21 GMT+0000"]
+[Termination "jymapps won - game abandoned"]
+
+1. d4 d5 2. Bf4 c5 3. c3 e6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "JFKezSnipe"]
+[Result "1-0"]
+[WhiteElo "270"]
+[BlackElo "230"]
+[TimeControl "180"]
+[EndTime "12:32:54 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. e3 c6 5. Bxc4 Bg4 6. f3 Bh5 7. g4 Bg6 8. g5
+Nh5 9. f4 c5 10. Qb3 Qc8 11. f5 Bxf5 12. Bxf7+ Kd7 13. Qd5+ Kc7 14. Nb5+ Kb6 15.
+dxc5+ Kxb5 16. c6+ Kb4 17. cxb7 Qc5 18. Qxc5+ Kxc5 19. bxa8=Q Nc6 20. Ne2 Bc2
+21. Bxh5 g6 22. Bf3 Nb4 23. Qd5+ Nxd5 24. Bxd5 Kxd5 25. Kd2 Bf5 26. h4 h5 27.
+Nc3+ Kc4 28. Na4 Bg7 29. b3+ Kb4 30. Rb1 Rb8 31. Rh3 Bxb1 32. Kd1 Rd8+ 33. Ke2
+Bc3 34. e4 Kb5 35. Bf4 Rd7 36. Ke3 Rd6 37. Bxd6 e6 38. Be7 Ka5 39. Bf6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.08"]
+[Round "-"]
+[White "jymapps"]
+[Black "Pavel0471"]
+[Result "1-0"]
+[WhiteElo "278"]
+[BlackElo "237"]
+[TimeControl "180"]
+[EndTime "12:38:37 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. d4 d5 2. c4 Nc6 3. e3 e6 4. Nc3 dxc4 5. Bxc4 a6 6. e4 b5 7. Bb3 Nxd4 8. Nf3
+e5 9. Nxe5 Bc5 10. O-O h5 11. Nxf7 Bg4 12. f3 Nxf3+ 13. Kh1 Qxd1 14. Rxd1 Nxh2
+15. Nxh8 Bxd1 16. Kxh2 O-O-O 17. Bxd1 Nf6 18. Nf7 Rd7 19. Ne5 Re7 20. Nc6 Re6
+21. Kh3 Rxc6 22. g4 hxg4+ 23. Bxg4+ Kb7 24. a4 b4 25. Ne2 Nxe4 26. Nf4 g6 27.
+Nxg6 Rxg6 28. Bf3 Re6 29. Kg4 Kb6 30. Kf5 Re8 31. Bxe4 Rf8+ 32. Ke5 Re8+ 33. Kf5
+Bd4 34. Kf4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.09"]
+[Round "-"]
+[White "KING96685HM"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "299"]
+[BlackElo "270"]
+[TimeControl "180"]
+[EndTime "10:59:10 GMT+0000"]
+[Termination "KING96685HM won - game abandoned"]
+
+1. e4 d5 2. e5 c5 3. d4 b6 4. dxc5 a6 5. cxb6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "Kuttyvicky23"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "299"]
+[BlackElo "263"]
+[TimeControl "180"]
+[EndTime "12:37:27 GMT+0000"]
+[Termination "Kuttyvicky23 won by resignation"]
+
+1. e4 c5 2. Qf3 b6 3. Bc4 e6 4. Nh3 Bb7 5. Nf4 Nc6 6. Nxe6 dxe6 7. d4 Nxd4 8.
+Qf4 Nxc2+ 9. Ke2 Nxa1 10. Rd1 Qf6 11. g3 g5 12. Qe3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "Jarif_Al_Zawat_69"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "258"]
+[BlackElo "271"]
+[TimeControl "180"]
+[EndTime "12:42:34 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. Nf3 e6 2. d4 c5 3. Nc3 Nc6 4. dxc5 Bxc5 5. a3 d5 6. b4 Bb6 7. b5 Nb8 8. a4 a6
+9. a5 Bc7 10. e3 b6 11. bxa6 Rxa6 12. Bxa6 Bxa6 13. axb6 Bxb6 14. Rb1 Nd7 15.
+Ra1 Bc4 16. Nd4 e5 17. Nc6 Qg5 18. Na7 Qxg2 19. Rf1 Qxh2 20. Nc8 Bc7 21. Ra6 Kd8
+22. Ra8 Ne7 23. Ba3 Nxc8 24. f3 Qh4+ 25. Rf2 d4 26. exd4 exd4 27. Na4 Re8+ 28.
+Kd2 Qf4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "jymapps"]
+[Black "plusminusx"]
+[Result "1-0"]
+[WhiteElo "279"]
+[BlackElo "277"]
+[TimeControl "180"]
+[EndTime "12:49:10 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. d4 d5 2. c4 e5 3. e3 e4 4. Nc3 dxc4 5. Bxc4 Bf5 6. Qb3 Nc6 7. Qxb7 Rb8 8.
+Qxc6+ Qd7 9. Qa6 c6 10. f3 Nf6 11. g4 Bg6 12. fxe4 Nxe4 13. Nf3 Be7 14. Ne5 Qc7
+15. Nxf7 Bxf7 16. Nxe4 Bxc4 17. Qxc4 Qa5+ 18. Bd2 Qc7 19. O-O Rd8 20. Qf7+ Kd7
+21. Qxg7 Qd6 22. Nxd6 Kxd6 23. Rf7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "jymapps"]
+[Black "saidkurdii"]
+[Result "1-0"]
+[WhiteElo "287"]
+[BlackElo "251"]
+[TimeControl "180"]
+[EndTime "12:50:58 GMT+0000"]
+[Termination "jymapps won - game abandoned"]
+
+1. d4 e5 2. e4 Qh4 3. Bd3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "bossNaruk"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "292"]
+[BlackElo "279"]
+[TimeControl "180"]
+[EndTime "12:55:41 GMT+0000"]
+[Termination "bossNaruk won by resignation"]
+
+1. c4 d5 2. Nc3 e6 3. Nf3 Nf6 4. e3 e5 5. d4 Bd6 6. dxe5 Bxe5 7. Nxe5 Qe7 8. Nd3
+Be6 9. g3 c6 10. Bg2 dxc4 11. Ne5 Bg4 12. f3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "alirezaghanoon"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "283"]
+[BlackElo "287"]
+[TimeControl "180"]
+[EndTime "12:58:00 GMT+0000"]
+[Termination "jymapps won - game abandoned"]
+
+1. d4 d5 2. f3 c5 3. b3 e6 4. f4 Qh4+ 5. Kd2 Qxf4+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "jymapps"]
+[Black "Suvessh"]
+[Result "1-0"]
+[WhiteElo "295"]
+[BlackElo "294"]
+[TimeControl "180"]
+[EndTime "13:03:35 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. d4 e5 2. c4 exd4 3. Qxd4 Nc6 4. Qe3+ Qe7 5. Qg3 Qd6 6. Nf3 Qxg3 7. hxg3 Nd4
+8. Nxd4 c5 9. Nb5 Kd8 10. Bf4 a6 11. Nc7 Rb8 12. Nd5 Nf6 13. Bxb8 Nxd5 14. cxd5
+Bd6 15. Nc3 b5 16. e4 b4 17. Na4 Re8 18. a3 Rxe4+ 19. Be2 Bxg3 20. fxg3 Bb7 21.
+Rxh7 Bxd5 22. Rh8+ Ke7 23. Nxc5 Re3 24. Rd1 Bxg2 25. Rxd7+ Kf6 26. Kf2 Bf3 27.
+Kxe3 Bxe2 28. Kxe2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "jymapps"]
+[Black "krunodbk"]
+[Result "0-1"]
+[WhiteElo "286"]
+[BlackElo "280"]
+[TimeControl "180"]
+[EndTime "13:09:14 GMT+0000"]
+[Termination "krunodbk won by resignation"]
+
+1. d4 f6 2. c4 b6 3. Nc3 Bb7 4. Be3 g6 5. c5 Bg7 6. d5 bxc5 7. Bxc5 d6 8. Ba3 f5
+9. f4 e6 10. e4 exd5 11. exd5 Bxc3+ 12. bxc3 Ne7 13. Bb5+ Kf8 14. Nf3 Bxd5 15.
+c4 Bb7 16. Nd4 a6 17. Ne6+ Kf7 18. Nxd8+ Rxd8 19. Ba4 Bxg2 20. Rg1 Bh3 21. Rg3
+Bg4 22. Qd4 Nec6 23. Qd5+ Ke7 24. Bxc6 Nxc6 25. Qxc6 a5 26. Qxc7+ Rd7 27. Qb6
+Raa7 28. Qe3+ Kf6 29. Bb2+ Kf7 30. Rd1 Re7 31. Qe2 Rxe2+ 32. Kf1 Rae7 33. Rxd6
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.12"]
+[Round "-"]
+[White "shafak-SZ"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "268"]
+[BlackElo "277"]
+[TimeControl "180"]
+[EndTime "13:12:20 GMT+0000"]
+[Termination "shafak-SZ won by resignation"]
+
+1. e3 c5 2. Nc3 d5 3. Bb5+ Bd7 4. a4 a6 5. Bd3 Nc6 6. Nf3 Nb4 7. Ne5 c4 8. Ke2
+cxd3+ 9. Nxd3 Nc6 10. Nc5 e5 11. Nxb7 Qg5 12. Nxd5 Qxg2 13. Nc7+ Ke7 14. Nxa8
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "jymapps"]
+[Black "amirShafri"]
+[Result "0-1"]
+[WhiteElo "269"]
+[BlackElo "306"]
+[TimeControl "180"]
+[EndTime "16:54:46 GMT+0000"]
+[Termination "amirShafri won on time"]
+
+1. e4 e5 2. c4 Nf6 3. Nc3 Nc6 4. f4 exf4 5. d4 Nxd4 6. Qxd4 Nh5 7. Be2 Nf6 8.
+Nf3 d6 9. Bxf4 Bg4 10. Qd5 Nxd5 11. cxd5 c5 12. Nb5 Qa5+ 13. Nd2 Bd7 14. O-O
+Bxb5 15. Bxb5+ Qxb5 16. e5 Qxb2 17. Rab1 Qxa2 18. Rxb7 f6 19. exd6 Bxd6 20. Bxd6
+Qxd2 21. Bxc5 Qxd5 22. Re1+ Kd8 23. Be7+ Kc8 24. Reb1 Qd4+ 25. Kh1 a5 26. Rc1+
+Kxb7 27. Bc5 Qd5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "treefin"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "300"]
+[BlackElo "262"]
+[TimeControl "180"]
+[EndTime "16:58:20 GMT+0000"]
+[Termination "treefin won - game abandoned"]
+
+1. Nc3 d5 2. Nf3 c5 3. e4 e6 4. exd5 Nf6 5. Bb5+ Bd7 6. dxe6 fxe6 7. Bc4 Nc6 8.
+Ng5 Qe7 9. O-O Ne5 10. Qe2 b5 11. Bxb5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "DirtBikeDad08"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "279"]
+[BlackElo "254"]
+[TimeControl "180"]
+[EndTime "17:04:45 GMT+0000"]
+[Termination "DirtBikeDad08 won on time"]
+
+1. e4 e5 2. f3 Nf6 3. c3 d5 4. Bb5+ c6 5. Bd3 g5 6. Ne2 g4 7. O-O Qb6+ 8. Kh1
+gxf3 9. Rxf3 Ng4 10. Ng3 Be6 11. b3 dxe4 12. Bxe4 Bg7 13. d4 O-O 14. dxe5 Bxe5
+15. Nf5 Bxf5 16. Bxf5 Nf6 17. Rd3 c5 18. Bh6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "jymapps"]
+[Black "albe00"]
+[Result "0-1"]
+[WhiteElo "246"]
+[BlackElo "249"]
+[TimeControl "180"]
+[EndTime "17:10:32 GMT+0000"]
+[Termination "albe00 won - game abandoned"]
+
+1. d4 e6 2. c4 Bd6 3. e3 Nf6 4. Nc3 O-O 5. d5 exd5 6. cxd5 Qe7 7. e4 Nxe4 8. Qe2
+f5 9. Nf3 Nxc3 10. Qe3 Qxe3+ 11. fxe3 Nxd5 12. Bc4 c6 13. O-O b5 14. Bb3 c5 15.
+Bxd5+ Kh8 16. Bxa8 Nc6 17. Rd1 Bc7 18. h3 g6 19. g4 fxg4 20. hxg4 Rxf3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "bekirsn_21"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "259"]
+[BlackElo "238"]
+[TimeControl "180"]
+[EndTime "18:03:30 GMT+0000"]
+[Termination "bekirsn_21 won by resignation"]
+
+1. e4 c5 2. Qf3 e6 3. Bc4 a6 4. d3 b5 5. Bb3 Nc6 6. c4 Nb4 7. Na3 d5 8. cxb5
+axb5 9. exd5 c4 10. dxc4 Bb7 11. Nxb5 exd5 12. Nh3 Qe7+ 13. Be3 g6 14. O-O f5
+15. Bg5 Qe5 16. Rae1 Bd6 17. Rxe5+ Bxe5 18. Re1 Nc6 19. cxd5 Nd4 20. Qe3 Nc2 21.
+Bxc2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "jymapps"]
+[Black "shanu_kerala"]
+[Result "0-1"]
+[WhiteElo "231"]
+[BlackElo "270"]
+[TimeControl "180"]
+[EndTime "18:08:48 GMT+0000"]
+[Termination "shanu_kerala won on time"]
+
+1. d4 d5 2. c4 Nc6 3. e3 Nf6 4. Nc3 Bf5 5. h3 Ne4 6. g4 Nxc3 7. Qb3 Ne4 8. Qxb7
+Rb8 9. Qxc6+ Bd7 10. Qxd5 Nf6 11. Qf3 c6 12. Bd2 Qc7 13. O-O-O Bxg4 14. hxg4 c5
+15. d5 Qb6 16. Bc3 a5 17. g5 Nxd5 18. cxd5 e6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "Babass87"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "233"]
+[BlackElo "223"]
+[TimeControl "180"]
+[EndTime "18:20:05 GMT+0000"]
+[Termination "Babass87 won on time"]
+
+1. e4 c5 2. Nc3 e5 3. Bc4 Nc6 4. Nf3 f5 5. O-O d6 6. Re1 fxe4 7. Rxe4 d5 8. Bxd5
+Nf6 9. Rxe5+ Nxe5 10. Nxe5 Nxd5 11. Nxd5 Qxd5 12. f4 Be6 13. d3 Qd4+ 14. Kf1 c4
+15. c3 Qc5 16. d4 Qb5 17. b4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "jymapps"]
+[Black "MikeRO_Plays"]
+[Result "0-1"]
+[WhiteElo "215"]
+[BlackElo "234"]
+[TimeControl "180"]
+[EndTime "18:26:27 GMT+0000"]
+[Termination "MikeRO_Plays won on time"]
+
+1. d4 e6 2. c4 d5 3. e3 Bb4+ 4. Bd2 Nc6 5. a3 Bd6 6. b4 a6 7. c5 Be7 8. Qa4 Nf6
+9. b5 axb5 10. Qxa8 O-O 11. Bxb5 Qd7 12. Nf3 b6 13. Bxc6 Ba6 14. Bxd7 Rxa8 15.
+c6 Nxd7 16. cxd7 Rd8 17. Ne5 Bd6 18. Nc3 Bxe5 19. dxe5 Rxd7 20. e4 dxe4 21. Nxe4
+c5 22. Rd1 c4 23. Bc3 Rxd1+ 24. Kxd1 b5 25. Kc2 f5 26. Nd6 Bc8 27. Nxc8 b4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "loniiiiiiiiiii_i"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "205"]
+[BlackElo "207"]
+[TimeControl "180"]
+[EndTime "18:33:05 GMT+0000"]
+[Termination "loniiiiiiiiiii_i won on time"]
+
+1. a4 c5 2. c3 Nc6 3. b4 a6 4. Nf3 e6 5. d4 d5 6. dxc5 g6 7. Bg5 Be7 8. Bf4 g5
+9. Bxg5 Bxg5 10. Nxg5 Qxg5 11. Nd2 Qf6 12. Nf3 Nh6 13. e3 Qxc3+ 14. Ke2 Qxb4 15.
+Rb1 Qxc5 16. Ke1 Nf5 17. Be2 e5 18. Nxe5 Nxe5 19. e4 dxe4 20. Rc1 Qa5+ 21. Kf1
+e3 22. fxe3 Nxe3+ 23. Kg1 Nxd1 24. Rxd1 Qxa4 25. Bh5 Qxd1+ 26. Kf2 Qxh1 27. g4
+Qxh2+ 28. Kf1 Nd3 29. g5 Bg4 30. Bxg4 Qg3 31. Be2 Rd8 32. Bxd3 Rxd3 33. Ke2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "x_xlo_o"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "201"]
+[BlackElo "216"]
+[TimeControl "180"]
+[EndTime "18:39:08 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. h3 c5 2. a3 d5 3. d4 e6 4. e4 Bd6 5. Bb5+ Bd7 6. Bd3 Nc6 7. exd5 exd5 8. Qe2+
+Be6 9. Bg5 f6 10. h4 fxg5 11. hxg5 g6 12. Qxe6+ Qe7 13. Qe3 O-O-O 14. Rh3 h6 15.
+Rf3 cxd4 16. Qe2 hxg5 17. c3 Rh1 18. Kf1 g4 19. Rf4 g3 20. Rf8 Rxf8 21. Qxe7
+Bxe7 22. Bxg6 Nf6 23. Nd2 Ng4 24. Bf5+ Kc7 25. Bxg4 Rg8 26. Re1 Rxg4 27. Rxe7+
+Nxe7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.13"]
+[Round "-"]
+[White "jymapps"]
+[Black "x_xlo_o"]
+[Result "1-0"]
+[WhiteElo "224"]
+[BlackElo "176"]
+[TimeControl "180"]
+[EndTime "18:44:53 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. d4 a5 2. c4 Ra6 3. Nc3 h5 4. e3 Rhh6 5. c5 e5 6. Bxa6 bxa6 7. Qe2 exd4 8.
+exd4+ Be7 9. Bxh6 Nxh6 10. h3 Nc6 11. g4 Nxd4 12. Qd3 d6 13. Nf3 Nc2+ 14. Qxc2
+Bh4 15. Nxh4 Qxh4 16. Qe2+ Be6 17. Ne4 d5 18. gxh5 Qxe4 19. Rg1 Bxh3 20. Rxg7
+Kf8 21. f3 Qa4 22. Rg3 Be6 23. Qxa6 Qc2 24. Qxa5 Qxb2 25. Qxc7 Qxa1+ 26. Ke2 d4
+27. Qd8# 1-0

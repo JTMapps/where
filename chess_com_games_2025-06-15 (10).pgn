@@ -1,0 +1,394 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.27"]
+[Round "-"]
+[White "jymapps"]
+[Black "TSHEPOVINCE"]
+[Result "1-0"]
+[WhiteElo "1219"]
+[BlackElo "496"]
+[TimeControl "600"]
+[EndTime "21:00:29 GMT+0000"]
+[Termination "jymapps won on time"]
+
+1. e4 e5 2. d4 d6 3. Nf3 Be6 4. Bb5+ Nc6 5. d5 Bg4 6. dxc6 b6 7. Nc3 Be7 8. h3
+Be6 9. g4 Nf6 10. g5 Nh5 11. Nd2 Bxg5 12. Qxh5 Bf6 13. Nd5 O-O 14. Rg1 a6 15.
+Nc4 axb5 16. Bh6 bxc4 17. Bxg7 Bxg7 18. O-O-O Rxa2 19. Kb1 Ra4 20. Nxc7 Qxc7 21.
+Qg5 Ra1+ 22. Kxa1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.27"]
+[Round "-"]
+[White "TSHEPOVINCE"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "487"]
+[BlackElo "1234"]
+[TimeControl "600"]
+[EndTime "21:11:44 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 e5 6. Nf3 e4 7. Nd4 Qc7 8. Bb5+
+Bd7 9. Ba4 Ba3 10. O-O Ng4 11. Ndb5 Qxh2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.18"]
+[Round "-"]
+[White "Sribnenko"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "1210"]
+[BlackElo "1057"]
+[TimeControl "600"]
+[EndTime "9:41:05 GMT+0000"]
+[Termination "Sribnenko won on time"]
+
+1. e4 e5 2. Nf3 f6 3. d4 Nc6 4. dxe5 Nxe5 5. Nxe5 fxe5 6. Nc3 Nf6 7. h4 d6 8. g4
+Nxg4 9. Nd5 Be7 10. Bh3 Nh6 11. Bxc8 Rxc8 12. Bxh6 gxh6 13. Qh5+ Kf8 14. Qxh6+
+Ke8 15. Qh5+ Kd7 16. O-O-O Qf8 17. Nxe7 Qxe7 18. Qf5+ Kd8 19. h5 Rf8 20. Qh3
+Rxf2 21. Rhf1 Qg5+ 22. Kb1 Rf4 23. Rxf4 exf4 24. Qf5 Qe7 25. Rf1 d5 26. Qxd5+
+Qd7 27. Qxd7+ Kxd7 28. Rxf4 Rg8 29. Rf7+ Kd8 30. b3 Re8 31. Rf4 c5 32. Kb2 b5
+33. Kc3 b4+ 34. Kc4 Re5 35. c3 bxc3 36. Kxc3 Rxh5 37. Rf7 Rh3+ 38. Kc4 Rh2 39.
+a4 Rb2 40. Rxh7 a5 41. Ra7 Rc2+ 42. Kb5 Rb2 43. Kxc5 Rxb3 44. Rxa5 Rc3+ 45. Kb6
+Re3 46. Re5 Rb3+ 47. Kc5 Rb8 48. a5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "jymapps"]
+[Black "iostef"]
+[Result "0-1"]
+[WhiteElo "943"]
+[BlackElo "1072"]
+[TimeControl "600"]
+[EndTime "22:17:14 GMT+0000"]
+[Termination "iostef won - game abandoned"]
+
+1. e4 e5 2. c3 Nf6 3. Qf3 d6 4. d4 Bg4 5. Qd3 h6 6. Qb5+ Nc6 7. Qxb7 Bd7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "jymapps"]
+[Black "Coronamynuts"]
+[Result "0-1"]
+[WhiteElo "873"]
+[BlackElo "1020"]
+[TimeControl "600"]
+[EndTime "22:30:21 GMT+0000"]
+[Termination "Coronamynuts won by resignation"]
+
+1. e4 e6 2. c3 d5 3. Qa4+ Bd7 4. Qb3 b6 5. exd5 Nf6 6. c4 Bc5 7. Qf3 exd5 8.
+cxd5 O-O 9. d6 Re8+ 10. Be2 Bc6 11. Qf4 Bxd6 12. Qc4 Bxg2 13. Nf3 Bxh1 14. Qd5
+Nxd5 15. Nc3 Nb4 16. Nd4 Nd7 17. d3 c5 18. Nf5 Nc2+ 19. Kd2 Nxa1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "Gabriel_kah"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "815"]
+[BlackElo "933"]
+[TimeControl "600"]
+[EndTime "22:42:48 GMT+0000"]
+[Termination "jymapps won by resignation"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. d3 Nd4 5. Bxh6 Qf6 6. Bxf7+ Qxf7 7. Qxf7+ Kxf7
+8. Be3 Nxc2+ 9. Kd2 Nxa1 10. Nf3 Bb4+ 11. Ke2 Nc2 12. Ng5+ Ke7 13. a3 Be1 14.
+Bc5+ d6 15. Be3 h6 16. Nf3 Bg4 17. h3 Bh5 18. Kd1 Nxe3+ 19. fxe3 Bg3 20. Nc3
+Rhf8 21. Rf1 c6 22. d4 c5 23. Nd5+ Kd8 24. dxc5 dxc5 25. Ke2 Bg6 26. Nxe5 Rxf1
+27. Kxf1 Bxe4 28. Ng4 Bxd5 29. e4 Bxe4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "dusica77"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "1020"]
+[BlackElo "887"]
+[TimeControl "600"]
+[EndTime "22:55:36 GMT+0000"]
+[Termination "dusica77 won by resignation"]
+
+1. g3 e5 2. Bg2 d5 3. e3 Nf6 4. c3 Bg4 5. Qa4+ Nc6 6. Qb3 d4 7. Qxb7 dxc3 8.
+Bxc6+ Ke7 9. Qb4+ Qd6 10. Qxd6+ cxd6 11. Bxa8 cxd2+ 12. Bxd2 Kd7 13. Bf3 Be6 14.
+Nc3 d5 15. Nge2 Bc5 16. Na4 Rc8 17. Rc1 Kd6 18. b4 Bxb4 19. Bxb4+ Kd7 20. Rxc8
+Kxc8 21. O-O e4 22. Bg2 Bd7 23. Rc1+ Kd8 24. a3 Bxa4 25. Nd4 Kd7 26. Nf5 g6 27.
+Nh6 Ne8 28. Nxf7 Nc7 29. Ne5+ Ke6 30. Nd3 Nb5 31. Nf4+ Kd7 32. Nxd5 Nxa3 33.
+Bxa3 Ke6 34. Nf4+ Ke5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "jymapps"]
+[Black "sharpleopard17"]
+[Result "0-1"]
+[WhiteElo "845"]
+[BlackElo "960"]
+[TimeControl "600"]
+[EndTime "22:57:38 GMT+0000"]
+[Termination "sharpleopard17 won by resignation"]
+
+1. e4 e5 2. c3 Nf6 3. Qf3 Bc5 4. d4 exd4 5. cxd4 Bxd4 6. Qg3 O-O 7. Bh6 Nh5 8.
+Be2 Nxg3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "jymapps"]
+[Black "VNeto26"]
+[Result "0-1"]
+[WhiteElo "804"]
+[BlackElo "883"]
+[TimeControl "600"]
+[EndTime "23:07:04 GMT+0000"]
+[Termination "VNeto26 won - game abandoned"]
+
+1. e4 e5 2. c3 Nf6 3. Qf3 d5 4. d3 Bg4 5. Qg3 h5 6. Qxe5+ Be7 7. Qg5 O-O 8. e5
+Nh7 9. Qe3 Nc6 10. Be2 b6 11. f3 Bc5 12. Qd2 Bf5 13. f4 h4 14. Bf3 Re8 15. c4 f6
+16. cxd5 Bb4 17. dxc6 Bxd2+ 18. Bxd2 fxe5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.20"]
+[Round "-"]
+[White "pablo_toya"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "627"]
+[BlackElo "832"]
+[TimeControl "600"]
+[EndTime "23:14:45 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. e4 e5 2. a4 d5 3. a5 a6 4. Ra3 b5 5. Rb3 Nc6 6. Rc3 Nxa5 7. Na3 b4 8. Nb1
+bxc3 9. bxc3 d4 10. c4 Qg5 11. f3 Be6 12. Bb2 Bxc4 13. g3 Bxf1 14. Kxf1 Nc4 15.
+h3 Nxb2 16. Rh2 Qxg3 17. Re2 Nxd1 18. Re1 Qf2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "jymapps"]
+[Black "grandam001"]
+[Result "1-0"]
+[WhiteElo "875"]
+[BlackElo "874"]
+[TimeControl "600"]
+[EndTime "15:49:45 GMT+0000"]
+[Termination "jymapps won - game abandoned"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Qxd4 Nc6 5. Qd1 Bd6 6. c3 Bc5 7. Bf4 Qb6 8. Bg3
+Qxb2 9. Nbd2 Qxc3 10. Bb5 Nd4 11. Be5 f6 12. Bxd4 Bxd4 13. e5 Qb4 14. O-O Bxa1
+15. Nb3 Bxe5 16. Nfd4 a6 17. Be2 Qd6 18. a4 b5 19. a5 Bb7 20. Nf3 Bxh2+ 21. Nxh2
+Qd5 22. f3 Qg5 23. g4 d5 24. Nc5 Bc6 25. Nxe6 Qg6 26. Nc7+ Ke7 27. Nxa8 Nh6 28.
+Nc7 Bb7 29. Nxd5+ Bxd5 30. Qxd5 Rd8 31. Qb7+ Ke8 32. Bxb5+ Kf8 33. Qxa6 Qc2 34.
+Qb6 Rc8 35. Qd6+ Kf7 36. Qd5+ Kg6 37. Bd3+ Qxd3 38. Qxd3+ f5 39. gxf5+ Nxf5 40.
+Qa6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "jymapps"]
+[Black "gramcracker4444"]
+[Result "1/2-1/2"]
+[WhiteElo "862"]
+[BlackElo "741"]
+[TimeControl "600"]
+[EndTime "16:09:27 GMT+0000"]
+[Termination "Game drawn - insufficient material"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. e5 Ng8 7. Bf4 f6 8.
+c4 d6 9. c5 dxe5 10. Bb5+ c6 11. Bxe5 fxe5 12. Qxe5+ Qe7 13. Qe2 Qe5 14. Bd3
+Qxe2+ 15. Bxe2 Bxc5 16. Nc3 Bd4 17. O-O Bxc3 18. bxc3 Bf5 19. Rad1 Nf6 20. h3
+Bc2 21. Rc1 Be4 22. g4 O-O-O 23. g5 Ng8 24. Rce1 h6 25. Bg4+ Kb8 26. Re3 Bd3 27.
+Rfe1 hxg5 28. Re8 Rxe8 29. Rxe8+ Kc7 30. Be6 Kb6 31. Rxg8 Rxh3 32. Bc8 Rf3 33.
+Rxg7 g4 34. Bxg4 Rf4 35. Bc8 a5 36. Rxb7+ Kc5 37. Ra7 Kb5 38. Ba6+ Kb6 39. Rb7+
+Kxa6 40. Rb8 Bc4 41. Rc8 Kb5 42. a4+ Kxa4 43. Rxc6 Bd5 44. Rc5 Be6 45. c4 Bf7
+46. Rc7 Rxc4 47. Rxf7 Kb4 48. f4 a4 49. f5 Rc1+ 50. Kf2 Rc2+ 51. Ke1 Rc1+ 52.
+Kd2 Rh1 53. Rb7+ Ka3 54. Ra7 Rh8 55. f6 Rf8 56. Ra6 Rf7 57. Kc3 Ka2 58. Rxa4+
+Kb1 59. Ra6 Kc1 60. Kd4 Kd2 61. Ke5 Ke3 62. Ke6 Rf8 63. f7 Kf4 64. Ke7 Rh8 65.
+Rf6+ Kg5 66. f8=Q Rxf8 67. Kxf8 Kxf6 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "kelvinator07"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "890"]
+[BlackElo "832"]
+[TimeControl "600"]
+[EndTime "16:12:14 GMT+0000"]
+[Termination "kelvinator07 won by checkmate"]
+
+1. d4 e5 2. d5 d6 3. Nf3 f6 4. e4 Nh6 5. Bb5+ Bd7 6. Bd3 c6 7. Bc4 c5 8. Qe2 a6
+9. Bxh6 gxh6 10. Nh4 h5 11. Qxh5+ Ke7 12. Nf5+ Bxf5 13. Qxf5 b5 14. Qe6# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "rtumag"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "850"]
+[BlackElo "804"]
+[TimeControl "600"]
+[EndTime "16:17:52 GMT+0000"]
+[Termination "rtumag won by checkmate"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd2 Nc6 6. Nxd5 Qxd5 7. Qe2+ Be7 8.
+c4 Qxd4 9. O-O-O Nb4 10. Bg5 Nxa2+ 11. Kb1 Qxc4 12. Qxc4 Be6 13. Qxc7 Rc8 14.
+Bb5+ Kf8 15. Bxe7+ Nxe7 16. Rd8+ Rxd8 17. Qxd8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "edilsyleimenov"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "865"]
+[BlackElo "781"]
+[TimeControl "600"]
+[EndTime "16:29:51 GMT+0000"]
+[Termination "edilsyleimenov won by checkmate"]
+
+1. f3 e5 2. e4 Nf6 3. Bd3 d5 4. Ne2 dxe4 5. Bxe4 c5 6. O-O Na6 7. c3 c4 8. d4
+Bd6 9. dxe5 Bxe5 10. Qxd8+ Kxd8 11. Bg5 Nc5 12. Bxf6+ Bxf6 13. Rd1+ Bd7 14. Na3
+Na4 15. Nxc4 Rc8 16. b3 Nxc3 17. Nxc3 Bxc3 18. Rac1 Bb2 19. Rc2 Ba3 20. Bf5 Rc7
+21. Ne5 Re8 22. Nxd7 Rxd7 23. Bxd7 Re7 24. Bf5+ Ke8 25. Bxh7 Kf8 26. Rc8+ Re8
+27. Rxe8+ Kxe8 28. h4 Bc5+ 29. Kh1 Bf2 30. h5 Be3 31. g4 Kf8 32. Re1 Bg5 33. Rd1
+a5 34. Rd7 g6 35. hxg6 Kg7 36. gxf7 Kh6 37. f8=Q# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "jymapps"]
+[Black "enricocalandro1"]
+[Result "1-0"]
+[WhiteElo "805"]
+[BlackElo "758"]
+[TimeControl "600"]
+[EndTime "17:58:07 GMT+0000"]
+[Termination "jymapps won - game abandoned"]
+
+1. e4 d5 2. Qf3 c6 3. d4 Nf6 4. e5 Ne4 5. Bd3 e6 6. Bf4 Qb6 7. Ne2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "msotog21"]
+[Black "jymapps"]
+[Result "0-1"]
+[WhiteElo "809"]
+[BlackElo "829"]
+[TimeControl "600"]
+[EndTime "18:08:39 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. e4 e5 2. Bc4 Qf6 3. Nf3 Bc5 4. d3 h6 5. a3 g5 6. h3 Nc6 7. Qe2 Nd4 8. Nxd4
+Bxd4 9. Be3 Bxb2 10. Ra2 Bd4 11. Bxd4 exd4 12. Nd2 h5 13. O-O g4 14. hxg4 hxg4
+15. Qxg4 d6 16. Qf3 Qh6 17. g3 Bh3 18. Bxf7+ Kd7 19. Rd1 Bg4 20. Qf4 Qh1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "jymapps"]
+[Black "woeidjweo"]
+[Result "1-0"]
+[WhiteElo "848"]
+[BlackElo "777"]
+[TimeControl "600"]
+[EndTime "18:17:12 GMT+0000"]
+[Termination "jymapps won by checkmate"]
+
+1. e4 e5 2. c3 Nc6 3. a3 Nf6 4. Qf3 d5 5. Bd3 dxe4 6. Bxe4 Bg4 7. Qd3 Bd6 8. f3
+Be6 9. Bxh7 Rxh7 10. c4 Na5 11. Nh3 Bxc4 12. Qc3 c5 13. Ng5 Rh5 14. d3 Nb3 15.
+Qxc4 Nxa1 16. Qxf7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "jymapps"]
+[Black "cebadooor"]
+[Result "1-0"]
+[WhiteElo "865"]
+[BlackElo "736"]
+[TimeControl "600"]
+[EndTime "18:43:04 GMT+0000"]
+[Termination "jymapps won - game abandoned"]
+
+1. e4 b5 2. Qf3 h5 3. Bxb5 a5 4. e5 h4 5. Qxa8 Rh5 6. Qxb8 Rxe5+ 7. Ne2 c6 8. f4
+Rxb5 9. Qa7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "nicolasbenedetti"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "863"]
+[BlackElo "845"]
+[TimeControl "600"]
+[EndTime "18:57:49 GMT+0000"]
+[Termination "nicolasbenedetti won by resignation"]
+
+1. e4 e5 2. d3 Nf6 3. f4 Nc6 4. f5 Bc5 5. Qe2 Nd4 6. Qd2 Qe7 7. Nf3 Bb4 8. c3
+Ba5 9. b4 Bb6 10. cxd4 exd4 11. Bb2 d5 12. Bxd4 Bxd4 13. Nxd4 Qe5 14. Nc3 Qxd4
+15. Rc1 Ng4 16. Nb5 Qb6 17. a3 Qxb5 18. Rxc7 O-O 19. Rc5 Qe8 20. h3 dxe4 21.
+hxg4 e3 22. Be2 b6 23. Rc4 exd2+ 24. Kxd2 Bb7 25. Bf3 Qe7 26. Bxb7 Qxb7 27. Re1
+Qxg2+ 28. Re2 Qxg4 29. Rxg4 h5 30. Rg1 h4 31. f6 g6 32. Re4 h3 33. Rh4 Rad8 34.
+Rxh3 Rd6 35. Rgh1 Rxf6 36. Rh8+ Kg7 37. R8h7+ Kg8 38. Kc3 Rc8+ 39. Kd4 Rf4+ 40.
+Ke3 Rf5 41. Rh8+ Kg7 42. Rxc8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.23"]
+[Round "-"]
+[White "Ahmed_ramy123"]
+[Black "jymapps"]
+[Result "1-0"]
+[WhiteElo "762"]
+[BlackElo "821"]
+[TimeControl "600"]
+[EndTime "19:00:24 GMT+0000"]
+[Termination "Ahmed_ramy123 won - game abandoned"]
+
+1. e4 e5 2. Bd3 d5 3. Nf3 d4 4. O-O Nc6 5. Re1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.26"]
+[Round "-"]
+[White "jymapps"]
+[Black "Aldanmaz"]
+[Result "0-1"]
+[WhiteElo "804"]
+[BlackElo "844"]
+[TimeControl "600"]
+[EndTime "10:48:02 GMT+0000"]
+[Termination "Aldanmaz won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Ng5 h6 5. Nf3 Nxe4 6. Qe2 d5 7. b4 Ng5 8. Nxe5
+Nxe5 9. Qxe5+ Ne6 10. c4 dxc4 11. Bxc4 Bxb4 12. Bb5+ Bd7 13. O-O a6 14. Bc4 Rc8
+15. Qxg7 Nxg7 16. Re1+ Ne6 17. f4 b5 18. Bb3 Kf8 19. Re4 Bc5+ 20. Kf1 Qf6 21.
+Nc3 b4 22. Nd5 Qxa1 23. f5 Qxc1+ 24. Ke2 Nd4+ 25. Kd3 Bb5+ 0-1
